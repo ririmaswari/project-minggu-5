@@ -1,0 +1,5 @@
+com\juaracoding\healthcare\runners\RunnerTest.class
+com\juaracoding\healthcare\definitions\appointments\BookingAppointmentSteps.class
+com\juaracoding\healthcare\definitions\authentications\Hook.class
+com\juaracoding\healthcare\definitions\authentications\NegativeLoginSteps.class
+com\juaracoding\healthcare\definitions\authentications\PositiveLoginSteps.class

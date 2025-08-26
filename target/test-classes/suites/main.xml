@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Main Test">
+    <test name="Test Math">
+        <parameter name="username" value="John Doe"></parameter>
+        <parameter name="password" value="ThisIsNotAPassword"></parameter>
+
+        <classes>
+            <class name="com.juaracoding.healthcare.runners.RunnerTest"></class>
+        </classes>
+    </test>
+</suite>

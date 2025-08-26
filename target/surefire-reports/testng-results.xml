@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-25T12:19:02 WIB" name="Main Test" finished-at="2025-08-25T12:20:08 WIB" duration-ms="66528">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-08-25T12:19:02 WIB" name="Test Math" finished-at="2025-08-25T12:20:08 WIB" duration-ms="66528">
+      <class name="com.juaracoding.healthcare.runners.RunnerTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:02 WIB" name="setUpClass" finished-at="2025-08-25T12:19:03 WIB" duration-ms="922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@63fd4dda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:03 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:19:15 WIB" duration-ms="12023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Memilih fasilitas kesehatan dan memesan tanggal janji temu"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Booking appointment"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:15 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:19:26 WIB" duration-ms="10926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Positive Sign In Cura Healthcare Service"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Authentication Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:26 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:19:36 WIB" duration-ms="10691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Negative Sign In Cura Healthcare Service"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Authentication Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:36 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:19:47 WIB" duration-ms="10504" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Negative Sign In Cura Healthcare Service"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Authentication Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:47 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:19:57 WIB" duration-ms="10224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Negative Sign In Cura Healthcare Service"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Authentication Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:19:57 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-08-25T12:20:08 WIB" duration-ms="10693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Negative Sign In Cura Healthcare Service"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Authentication Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.juaracoding.healthcare.runners.RunnerTest@34a3d150]" started-at="2025-08-25T12:20:08 WIB" name="tearDownClass" finished-at="2025-08-25T12:20:08 WIB" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.juaracoding.healthcare.runners.RunnerTest -->
+    </test> <!-- Test Math -->
+  </suite> <!-- Main Test -->
+</testng-results>
