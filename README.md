@@ -38,7 +38,7 @@ This project automates testing for the **CURA Healthcare Service** web app. It c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Raihannnhafid/project-minggu-5.git
+   git clone https://github.com/ririmaswari/project-minggu-5.git
    ```
 2. **Navigate to the project folder**:
    ```bash
