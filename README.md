@@ -42,7 +42,7 @@ This project automates testing for the **CURA Healthcare Service** web app. It c
    ```
 2. **Navigate to the project folder**:
    ```bash
-   cd projek-minggu-5
+   cd project-minggu-5
    ```
 3. **Open the project in VS Code:**:
    ```bash
